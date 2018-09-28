@@ -1,0 +1,33 @@
+#menu
+{
+background-image:url("../image/band.jpg") !important;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+a 
+{
+    color: #d73351 !important;
+}
+a:hover
+{
+    text-decoration: underline !important;
+    
+}
+#section_1
+{
+    background-color: #d73351;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+#menu2
+{
+    padding-left: 400px !important;
+}
+#col1
+{
+      
+
+}
